@@ -52,11 +52,6 @@
 			<artifactId>spring-boot-starter-data-rest</artifactId>
 		</dependency>
 		<dependency>
-			<groupId>com.aarteaga.commons.usuario</groupId>
-			<artifactId>springboot-servicio-usuarios-commons</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
-		<dependency>
 			<groupId>com.aarteaga.commons.usuarios</groupId>
 			<artifactId>springboot-servicio-usuarios-commons</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
